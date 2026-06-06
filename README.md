@@ -1,4 +1,4 @@
-#AIAGENTSTrustFabric
+# AIAGENTSTrustFabric
 
 The concept of a Guardian for AI Agents (or a "Trust Fabric") is becoming essential as organizations transition from single-model applications to complex, multi-agent systems. When these agents act autonomously—performing tasks like executing code, accessing private APIs, or interacting with customers—the traditional "single-point-of-failure" security model is insufficient.
 
